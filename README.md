@@ -1,1 +1,2 @@
-# pirates-invasion-c30
+# PiratesInvasion
+pirates invasion game
